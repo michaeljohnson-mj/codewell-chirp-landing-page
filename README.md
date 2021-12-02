@@ -1,0 +1,46 @@
+# Codewell - Chirp landing page solution
+
+This is a solution to the [Chirp Landing Page Challenge on Codewell](https://www.codewell.cc/challenges/chirp-landing-page--60fc1e36a383e41090a3c71c). Codewell's aim is to provide you with real-world design templates that you can use to practice your HTML and CSS projects. Free or paid, all templates are high quality and will make great portfolio pieces.
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
+
+### Screenshot
+
+![](./screenshots/screenshot-web.png)
+![](./screenshots/screenshot-mobile.png)
+
+### Links
+
+- Solution URL: [https://github.com/michaeljohnson-mj/codewell-chirp-landing-page.git](https://github.com/michaeljohnson-mj/codewell-chirp-landing-page.git)
+- Live Site URL: [https://michaeljohnson-mj.github.io/codewell-chirp-landing-page/](https://michaeljohnson-mj.github.io/codewell-chirp-landing-page/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- JavaScript
+
+## Author
+
+- Website - [https://www.michaeljohnson.tech](https://www.michaeljohnson.tech)
